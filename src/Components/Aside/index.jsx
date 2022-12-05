@@ -6,8 +6,8 @@ const Aside = () => {
     <aside>
       <article class="profile card">
         <header>
-          <h2>Kota Bandung</h2>
-          <p>Kota Kembang Paris Van Java</p>
+          <h2>Meiman Jaya Gea</h2>
+          <p>Software Enggineer</p>
 
           <figure>
             <img src={BandungBadge} class="profile-img" alt="bandung" />
